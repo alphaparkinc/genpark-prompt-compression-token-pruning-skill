@@ -1,0 +1,15 @@
+{
+  "name": "genpark-prompt-compression-token-pruning-skill",
+  "version": "1.0.0",
+  "description": "Task-aware prompt token pruning compressing context prompts using information density scoring.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "prompt-compression",
+    "token-pruning",
+    "context-compaction",
+    "llmlingua",
+    "information-density"
+  ]
+}
